@@ -1,0 +1,25 @@
+{
+  "guidelines": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Akshardham_Gandhinagar_Gujarat.jpg",
+    "description": "During your visit, we kindly ask you be respectful of fellow visitors and the campus. See our full list of visitor guidelines to learn more.",
+    "link": "https://www.baps.org/Terms-and-Conditions.aspx",
+    "sections": [
+      {
+        "title": "Dress Code",
+        "imageURL": "https://akdmves.baps-apps.org/GuidelineIcons/1697104632851_clothes-hoodie.png",
+        "content": [
+          {
+            "order": 1,
+            "text": "Please note that a strict dress code operates within the complex.",
+            "videoUrl": "http://abc.com",
+            "imageURL": [
+              "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/image_6483441.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/SAV%20Mandir_002.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

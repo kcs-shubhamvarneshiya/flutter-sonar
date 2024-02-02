@@ -1,0 +1,42 @@
+{
+  "record": [
+    {
+      "fieldName": "Name",
+      "fieldValue": "Admin"
+    },
+    {
+      "fieldName": "gender",
+      "fieldValue": "Male"
+    },
+    {
+      "fieldName": "city",
+      "fieldValue": "Ahemdabad"
+    },
+    {
+      "fieldName": "What you like most in the visit?",
+      "fieldValue": [
+        "Campus",
+        "Fountain Show"
+      ]
+    },
+    {
+      "fieldName": "Where you know from BAPS?",
+      "fieldValue": "From Relatives"
+    },
+    {
+      "fieldName": "Attractions you have visited in your trip",
+      "fieldValue": [
+        "Fountain Show",
+        "Temple"
+      ]
+    },
+    {
+      "fieldName": "What would you like in us",
+      "fieldValue": "All of us"
+    },
+    {
+      "fieldName": "feedback",
+      "fieldValue": "Happy happy with BAPS"
+    }
+  ]
+}

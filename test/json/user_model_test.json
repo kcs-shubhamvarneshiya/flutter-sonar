@@ -1,0 +1,22 @@
+{
+  "id": "1234567890",
+  "requestorid": "9876543210",
+  "resourceuri": "/api/v1/users",
+  "additionalinfo": "This is additional information.",
+  "nonce": "abcdef0123456789",
+  "uid": "1234567890",
+  "sid": "9876543210",
+  "aid": "1234567890",
+  "cid": "9876543210",
+  "auth": "bearer",
+  "fn": "John",
+  "ln": "Doe",
+  "pid": "1234567890",
+  "ct": "1234567890",
+  "role": "admin",
+  "nbf": 1597470000,
+  "exp": 1628934000,
+  "iat": 1597469400,
+  "iss": "https://example.com",
+  "aud": "https://api.example.com"
+}

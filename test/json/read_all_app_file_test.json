@@ -1,0 +1,248 @@
+{
+  "campus": {
+    "name": "Akshardham",
+    "description": "'Akshardham' means the divine abode of God. It is hailed as an eternal place of devotion, purity and peace. Swaminarayan Akshardham at Robbinsville, New Jersey, USA is a Mandir – an abode of God, a Hindu house of worship, and a spiritual and cultural campus dedicated to devotion, learning and harmony.",
+    "latitude": "40.2537234",
+    "longitude": "-74.5797675",
+    "address": {
+      "street": "112 N Main St",
+      "city": "Windsor",
+      "state": "NJ",
+      "postal": "08561"
+    },
+    "contactInfo": [
+      {
+        "type": "tel",
+        "title": "Reception",
+        "value": "+1-609-918-1212"
+      }
+    ]
+  },
+  "galleries": [
+    {
+      "id": 0,
+      "title": "Homepage",
+      "description": "",
+      "media": [
+        {
+          "type": "IMAGE",
+          "name": "Tapomurti Shri Nilkanth Varni",
+          "captions": "This murti (sacred image) of Tapomurti Shri Nilkanth Varni is a homage to his travels around the Indian subcontinent for 7 years during his teenage years. Nilkanth Varni is portrayed in an ascetic pose performing tapas, or penance and worship with intense self-discipline",
+          "src": "https://media.baps.dev/wp-content/uploads/2021/10/15140152/05-Tapomurti-Nilkanth-Varni-Moods-scaled.jpg",
+          "thumbnail": "https://media.baps.dev/wp-content/uploads/2021/10/15140152/05-Tapomurti-Nilkanth-Varni-Moods-scaled.jpg"
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "priority": "WARNING",
+      "title": "New temple is in your area!",
+      "message": "New temple is in your area!",
+      "details": "asdf",
+      "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/announcements/1686127068977_download.png",
+      "startTime": "2023-06-07T08:37:37.985Z",
+      "endTime": "2023-09-21T08:37:38.053Z"
+    }
+  ],
+  "news": [
+    {
+      "title": "Shri Swaminarayan Jayanti & Ram Navmi Celebrations 2023",
+      "publishedAt": "April 1, 2023",
+      "author": "BAPS Robbinsville",
+      "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+      "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+      "gallery": [
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___1_.jpeg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___2_.jpeg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___3_.jpeg"
+      ],
+      "file": "url",
+      "description": "The auspicious occasions of Shri Swaminarayan Jayanti and Shri Ram Jayanti were celebrated across North America.",
+      "extraText": "",
+      "tags": [
+        "Festivals",
+        "RamNavmi"
+      ],
+      "categories": [
+        "CulturalPrograms",
+        "Sanyukt"
+      ],
+      "externalLink": "https://google.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "Abhishek",
+      "description": "Abhishek is the ancient Hindu practice of pouring water over the sacred image of God to honour him and to attain his blessings. It is also an opportunity for devotees to pray to God, asking him to cleanse one’s soul.",
+      "timings": [
+        {
+          "name": "Abhishek Timings",
+          "description": "Devotees will be able to take part in a traditional abhishek ceremony with sanskrit hymns at the following times",
+          "type": "OPEN",
+          "hours": [
+            {
+              "weekday": "Sunday",
+              "startHour": 17.5,
+              "endHour": 17.75
+            }
+          ]
+        }
+      ],
+      "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_53.jpg",
+      "images": [
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_53.jpg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_50.jpg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_47.jpg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_48.jpg"
+      ],
+      "type": "IMAGE"
+    }
+  ],
+  "attractions": [
+        {
+          "id": 1,
+          "title": "Parking A",
+          "description": "Parking area for all visitors to the BAPS Swaminarayan Akshardham in New Jersey",
+          "thumbnail": "https://www.baps.org/Data/Sites/1/Media/LocationImages/rbvdirections-1.jpg",
+          "heroImage": "https://www.baps.org/Data/Sites/1/Media/LocationImages/rbvdirections-1.jpg",
+          "images": [
+            "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+            "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/image_6483441.JPG",
+            "https://www.baps.org//Data/Sites/1/Media/LocationImages/1387Milwaukee.jpg",
+            "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/SAV%20Mandir_002.jpg"
+          ],
+          "type": "Outdoor Attraction",
+          "duration": "1",
+          "options": {
+            "reservable": false,
+            "isRecommended": true,
+            "externalLink": "url"
+          },
+          "displayOrder": {
+            "exploreList": 2,
+            "visitPlanner": 4
+          },
+          "longitude": "72.49889",
+          "latitude": "23.11222",
+          "radius": 1,
+          "averageVisitLengthInMinutes": 1,
+          "mapIcon": "Glow Garden",
+          "attractionType": "Amenities",
+          "beacon": {
+            "id": "35eb0f3c-aa6b-4f23-bfb0-fb63d05a0536",
+            "major": 1,
+            "minor": 1
+          },
+          "notificationMessage": {
+            "body": "test notification",
+            "title": "test",
+            "deepLink": "http://abc.com"
+          },
+          "content": [
+            {
+              "id": 1,
+              "images": [
+                "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+                "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/image_6483441.JPG",
+                "https://www.baps.org//Data/Sites/1/Media/LocationImages/1387Milwaukee.jpg",
+                "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/SAV%20Mandir_002.jpg"
+              ],
+              "order": 2,
+              "text": "Hello",
+              "videoUrl": "http://abc.com"
+            }
+          ],
+          "isAddedInPlan": true,
+          "timings": [
+            {
+              "name": "Abhishek Timings",
+              "description": "Devotees will be able to take part in a traditional abhishek ceremony with sanskrit hymns at the following times",
+              "type": "OPEN",
+              "hours": [
+                {
+                  "startHour": 17.5,
+                  "endHour": 17.75,
+                  "weekday": "Sunday"
+                }
+              ]
+            }
+          ]
+        }
+  ],
+  "socialMedia": [
+    {
+      "type": "FACEBOOK",
+      "link": "https://caiosdf.com",
+      "handle": "asdf",
+      "date": "2023-06-06T18:30:00.000Z",
+      "description": "asdf",
+      "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1686127091054_images.jpg",
+      "profileImage": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1686127092396_insta.jpg"
+    }
+  ],
+  "lookups": {
+    "aboutUs": "https://www.baps.org/About-BAPS.aspx",
+    "donate": "https://donate.na.baps.org/robbinsville",
+    "visitorGuidelines": "https://www.baps.org/Global-Network/North-America/Robbinsville/Visitor-Info.aspx",
+    "glossary": "https://www.baps.org/glossary.aspx",
+    "privacyPolicy": "https://www.baps.org/Privacy-Policy.aspx",
+    "termsConditions": "https://www.baps.org/Terms-and-Conditions.aspx",
+    "socialYoutubeLink": "https://www.youtube.com/c/PSM100yrs/featured",
+    "socialInstagramLink": "https://www.instagram.com/psm100yrs",
+    "socialFacebookLink": "https://www.facebook.com/psm100yrs",
+    "socialTwitterLink": "https://twitter.com/psm100yrs",
+    "uberDeeplink": "https://m.uber.com/ul/?client_id=gbjhdsfjhhku25sd",
+    "lyftDeeplink": "https://www.lyft.com/"
+  },
+  "guidelines": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Akshardham_Gandhinagar_Gujarat.jpg",
+    "description": "During your visit, we kindly ask you be respectful of fellow visitors and the campus. See our full list of visitor guidelines to learn more.",
+    "link": "https://www.baps.org/Terms-and-Conditions.aspx",
+    "sections": [
+      {
+        "title": "Dress Code",
+        "imageURL": "https://akdmves.baps-apps.org/GuidelineIcons/1697104632851_clothes-hoodie.png",
+        "content": [
+          {
+            "order": 1,
+            "text": "Please note that a strict dress code operates within the complex.",
+            "videoUrl": "http://abc.com",
+            "imageURL": [
+              "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/image_6483441.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/SAV%20Mandir_002.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "accommodations": [
+    {
+      "id": 40,
+      "name": "BAPS Swaminarayan Chhatralaya-1",
+      "location": "Adipur -1",
+      "price": 400,
+      "link": "https://www.baps.org/Terms-and-Conditions.aspx",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BAPS_Mandir_Chino_Hills.jpg/1280px-BAPS_Mandir_Chino_Hills.jpg"
+    }
+  ],
+  "feedbackForm": {
+    "submitLink": "http://www.rysun.com",
+    "fields": [
+      {
+        "options": [
+          {
+            "key": "male",
+            "value": "Male"
+          }
+        ],
+        "required": true,
+        "fieldName": "Gender",
+        "fieldType": "radio"
+      }
+    ]
+  }
+}

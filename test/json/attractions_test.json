@@ -1,0 +1,73 @@
+{
+  "attractions": [
+    {
+      "id": 1,
+      "title": "Parking A",
+      "description": "Parking area for all visitors to the BAPS Swaminarayan Akshardham in New Jersey",
+      "thumbnail": "https://www.baps.org/Data/Sites/1/Media/LocationImages/rbvdirections-1.jpg",
+      "heroImage": "https://www.baps.org/Data/Sites/1/Media/LocationImages/rbvdirections-1.jpg",
+      "images": [
+        "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+        "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/image_6483441.JPG",
+        "https://www.baps.org//Data/Sites/1/Media/LocationImages/1387Milwaukee.jpg",
+        "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/SAV%20Mandir_002.jpg"
+      ],
+      "type": "Outdoor Attraction",
+      "duration": "1",
+      "options": {
+        "reservable": false,
+        "isRecommended": true,
+        "externalLink": "url"
+      },
+      "displayOrder": {
+        "exploreList": 2,
+        "visitPlanner": 4
+      },
+      "longitude": "72.49889",
+      "latitude": "23.11222",
+      "radius": 1,
+      "averageVisitLengthInMinutes": 1,
+      "mapIcon": "Glow Garden",
+      "attractionType": "Amenities",
+      "beacon": {
+        "id": "35eb0f3c-aa6b-4f23-bfb0-fb63d05a0536",
+        "major": 1,
+        "minor": 1
+      },
+      "notificationMessage": {
+        "body": "test notification",
+        "title": "test",
+        "deepLink": "http://abc.com"
+      },
+      "content": [
+          {
+            "id": 1,
+            "images": [
+              "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/image_6483441.JPG",
+              "https://www.baps.org//Data/Sites/1/Media/LocationImages/1387Milwaukee.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/SAV%20Mandir_002.jpg"
+            ],
+            "order": 2,
+            "text": "Hello",
+            "videoUrl": "http://abc.com"
+          }
+        ],
+      "isAddedInPlan": false,
+      "timings": [
+        {
+          "name": "Abhishek Timings",
+          "description": "Devotees will be able to take part in a traditional abhishek ceremony with sanskrit hymns at the following times",
+          "type": "OPEN",
+          "hours": [
+            {
+              "startHour": 17.5,
+              "endHour": 17.75,
+              "weekday": "Sunday"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

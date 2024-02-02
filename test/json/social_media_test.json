@@ -1,0 +1,13 @@
+{
+  "socialMedia": [
+    {
+      "type": "FACEBOOK",
+      "link": "https://caiosdf.com",
+      "handle": "asdf",
+      "date": "2023-06-06T18:30:00.000Z",
+      "description": "asdf",
+      "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1686127091054_images.jpg",
+      "profileImage": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1686127092396_insta.jpg"
+    }
+  ]
+}

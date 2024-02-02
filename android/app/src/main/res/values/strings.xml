@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Geofencing</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Error strings -->
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">You have provided too many PendingIntents to the addGeofences() call</string>
+    <string name="unknown_geofence_error">Unknown error: the Geofence service is not available now</string>
+    <string name="geofence_transition_invalid_type">Geofence transition error: invalid transition type %1$d</string>
+
+    <!--common string geofence-->
+    <string name="service_running">service running</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="radiusValue">radiusValue</string>
+    <string name="geofenceId">geofenceRequestKey</string>
+    <string name="geofenceSuccess">Geofences added</string>
+    <string name="geofenceFail">Failed to add geofences</string>
+    <string name="enterRadiusMsg">Welcome to Akshardham campus!</string>
+    <string name="exitRadiusMsg">Thank you for visiting Akshardham campus!</string>
+    <string name="dwellRadiusMsg">You are in dwell state.</string>
+    <!--common string notification-->
+    <string name="channelId">default_channel_id</string>
+    <string name="channelName">Default Channel model</string>
+
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+</resources>

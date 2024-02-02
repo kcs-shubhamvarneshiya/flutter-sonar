@@ -1,0 +1,2129 @@
+{
+    "readFileFromS3": {
+      "file": {
+        "campus": {
+          "address": {
+            "city": "Robbinsville Twp",
+            "postal": "08561",
+            "state": "NJ",
+            "street": "112 N Main St"
+          },
+          "contactInfo": [
+            {
+              "id": null,
+              "title": "Reception",
+              "type": "tel",
+              "value": "+1-609-918-1212"
+            },
+            {
+              "id": null,
+              "title": "Media Inquiries",
+              "type": "email",
+              "value": "mediarelations@na.baps.org"
+            },
+            {
+              "id": null,
+              "title": "Media Inquiries",
+              "type": "tel",
+              "value": "+1-609-447-1008"
+            }
+          ],
+          "description": "'Akshardham' means the divine abode of God. It is hailed as an eternal place of devotion, purity and peace. Swaminarayan Akshardham at Robbinsville, New Jersey, USA is a Mandir – an abode of God, a Hindu house of worship, and a spiritual and cultural campus dedicated to devotion, learning and harmony.",
+          "id": null,
+          "latitude": "40.2537234",
+          "longitude": "-74.5797675",
+          "name": "Akshardham"
+        },
+        "announcements": [
+          {
+            "id": 1,
+            "priority": "INFO",
+            "title": "Update to Mandir Timings and Open Attractions",
+            "message": "Mandir timings and open attactions have been updated for the winter season",
+            "details": "",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BAPS_Mandir_Chino_Hills.jpg/1280px-BAPS_Mandir_Chino_Hills.jpg",
+            "startTime": "2023-10-31T01:13:03.074Z",
+            "endTime": "2023-10-31T02:13:03.074Z"
+          },
+          {
+            "id": 2,
+            "priority": "SUCCESS",
+            "title": "Update to Mandir Timings and Open Attractions",
+            "message": "Gift Distribution",
+            "details": "",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BAPS_Mandir_Chino_Hills.jpg/1280px-BAPS_Mandir_Chino_Hills.jpg",
+            "startTime": "2023-10-31T01:13:03.074Z",
+            "endTime": "2023-10-31T02:13:03.074Z"
+          }
+        ],
+        "campusTimings": [
+          {
+            "description": "Visiting Hours",
+            "hours": [
+              {
+                "endHour": 19.5,
+                "startHour": 9,
+                "weekday": "Wed-Mon"
+              }
+            ],
+            "id": 0,
+            "name": "Visiting Hours",
+            "specifiedDateTimestampInSeconds": null,
+            "type": "OPEN"
+          },
+          {
+            "description": "Week Off",
+            "hours": [
+              {
+                "endHour": 0,
+                "startHour": 23.99,
+                "weekday": "Tuesday"
+              }
+            ],
+            "id": 0,
+            "name": "Week Off",
+            "specifiedDateTimestampInSeconds": null,
+            "type": "CLOSE"
+          }
+        ],
+        "news": [
+          {
+            "id": 1,
+            "author": "BAPS Robbinsville",
+            "title": "Celebrating Indian Culture",
+            "description": "History, legacy and ideals have been woven into the fabric of Indian culture since time immemorial. The values found within this rich culture are the […]",
+            "extraText": "",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+            "externalLink": "https://usa.akshardham.org/connect/news/celebrating-indian-culture-2",
+            "gallery": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/webimages/Robbinsville_TurkeyEarthquake2023___14_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___12_.JPG"
+            ],
+            "file": "url",
+            "tags": [
+              "Festivals",
+              "RamNavmi"
+            ],
+            "categories": [
+              "CulturalPrograms",
+              "Sanyukt"
+            ],
+            "publishedAt": "2023-10-01T00:00:00.000Z",
+            "content": [
+              {
+                "id": null,
+                "order": 0,
+                "text": null,
+                "videoUrl": null,
+                "images": [
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___1_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___2_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___3_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___4_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___5_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___6_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___7_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___8_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___9_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___10_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___11_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___12_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___13_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___14_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___15_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___16_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___17_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___18_.jpeg"
+                ]
+              },
+              {
+                "id": null,
+                "order": 1,
+                "text": "Some text content",
+                "videoUrl": null,
+                "images": null
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "author": "BAPS Robbinsville",
+            "title": "Celebrating Sanatan Dharma",
+            "description": "Establishing an eternal path of faith in God, a program “Celebrating Sanatana Dharma” welcomed 400 Hindu faiths and organizations to collectively honor timeless values of […]",
+            "extraText": "",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+            "externalLink": "https://usa.akshardham.org/connect/news/celebrating-sanatan-dharma-2",
+            "gallery": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___17_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___18_.jpg"
+            ],
+            "file": "url",
+            "tags": [
+              "Festivals",
+              "RamNavmi"
+            ],
+            "categories": [
+              "CulturalPrograms",
+              "Sanyukt"
+            ],
+            "publishedAt": "2023-09-30T00:00:00.000Z",
+            "content": [
+              {
+                "id": null,
+                "order": 0,
+                "text": null,
+                "videoUrl": null,
+                "images": [
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___1_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___2_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___3_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___4_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___5_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___6_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___7_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___8_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___9_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___10_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___11_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___12_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___13_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___14_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___15_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___16_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___17_.jpeg",
+                  "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___18_.jpeg"
+                ]
+              },
+              {
+                "id": null,
+                "order": 1,
+                "text": "Some text content",
+                "videoUrl": null,
+                "images": null
+              }
+            ]
+          },
+          {
+            "id": null,
+            "author": "BAPS Robbinsville",
+            "title": "Northeast Kishore Basketball Tournament - Yogi Cup 2023",
+            "description": "The BAPS Yogi Cup Tournament is an annual sporting event where youths ages 14-22, gather to compete in their respective regions. It promotes the messages of Samp, Suradbhav and Ekta, values instilled by Yogiji Maharaj, to bring the participants together.",
+            "extraText": "",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/OtherImages/23345/webimages/Robbinsville_yogicup2023_18.jpg",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/OtherImages/23345/webimages/Robbinsville_yogicup2023_18.jpg",
+            "externalLink": "https://www.baps.org/Terms-and-Conditions.aspx",
+            "gallery": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_2.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_3.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_4.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_5.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_6.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_7.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_13.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_14.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_17.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26956/WebImages/Robbinsville_yogicup2023_18.jpg"
+            ],
+            "file": "url",
+            "tags": [
+              "YouthEvents",
+              "YogiCup"
+            ],
+            "categories": [
+              "YouthActivities",
+              "Kishore"
+            ],
+            "publishedAt": "2023-04-30T02:13:03.074Z",
+            "content": null
+          },
+          {
+            "id": null,
+            "author": "BAPS Robbinsville",
+            "title": "Türkiye Earthquake Prayer Assembly",
+            "description": "Amidst the devastating earthquakes in Türkiye, BAPS Shri Swaminarayan in Robbinsville, New Jersey, organized a special prayer assembly to seek solace and divine intervention for those affected.",
+            "extraText": "",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/webimages/Robbinsville_TurkeyEarthquake2023___14_.JPG",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/webimages/Robbinsville_TurkeyEarthquake2023___14_.JPG",
+            "externalLink": "https://www.baps.org/Terms-and-Conditions.aspx",
+            "gallery": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/webimages/Robbinsville_TurkeyEarthquake2023___14_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___12_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___11_.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___3_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___5_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___15_.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___19_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___20_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___9_.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___17_.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26662/WebImages/Robbinsville_TurkeyEarthquake2023___18_.jpg"
+            ],
+            "file": "url",
+            "tags": [
+              "PrayerAssembly"
+            ],
+            "categories": [
+              "Humanitarian",
+              "Earthquake"
+            ],
+            "publishedAt": "2023-04-30T02:13:03.074Z",
+            "content": null
+          },
+          {
+            "id": null,
+            "author": "BAPS Robbinsville",
+            "title": "Pramukh Swami Maharaj Centennial Celebrations",
+            "description": "His Holiness Pramukh Swami Maharaj Centennial Celebrations took place across North America with great fanfare.",
+            "extraText": "",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/webimages/071_robbinsville_psm100_2022.jpg",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/webimages/071_robbinsville_psm100_2022.jpg",
+            "externalLink": null,
+            "gallery": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/000_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/001_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/004_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/006_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/008_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/013_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/014_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/016_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/020_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/040_robbinsville_psm100_2022.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26392/WebImages/063_robbinsville_psm100_2022.jpg"
+            ],
+            "file": "url",
+            "tags": [
+              "PSM100",
+              "Celebrations"
+            ],
+            "categories": [
+              "PSM100",
+              "PramukhSwamiMaharaj"
+            ],
+            "publishedAt": "2023-04-30T02:13:03.074Z",
+            "content": null
+          }
+        ],
+        "events": [
+          {
+            "id": null,
+            "type": "IMAGE",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_53.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_50.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_47.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_34.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_48.jpg"
+            ],
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/14521/WebImages/Robbinsville_GMAMP_53.jpg",
+            "title": "Abhishek",
+            "description": "Abhishek is the ancient Hindu practice of pouring water over the sacred image of God to honour him and to attain his blessings. It is also an opportunity for devotees to pray to God, asking him to cleanse one’s soul.",
+            "externalLink": "https://www.instagram.com/baps/?hl=en",
+            "eventDate": "2023-10-01T02:13:03.074Z",
+            "timings": [
+              {
+                "id": null,
+                "name": "Abhishek Timings",
+                "description": "Devotees will be able to take part in a traditional abhishek ceremony with sanskrit hymns at the following times",
+                "type": "OPEN",
+                "specifiedDateTimestampInSeconds": null,
+                "hours": [
+                  {
+                    "weekday": "SUNDAY",
+                    "startHour": 17.5,
+                    "endHour": 17.75
+                  },
+                  {
+                    "weekday": "SATURDAY",
+                    "startHour": 17.5,
+                    "endHour": 17.75
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": null,
+            "type": "IMAGE",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/22382/WebImages/LM25mahapuja_London__38_a.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/OtherImages/20827/WebImages/ShatabdiMahapuja2022_thumbnail.JPG",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/22271/WebImages/Auckland_Mahapuja_07.jpg"
+            ],
+            "thumbnail": "https://i.ytimg.com/vi/yDkkoU-dih4/maxresdefault.jpg",
+            "title": "Mahapuja",
+            "description": "Mahapuja is a worship ritual that allows many devotees to simultaneously participate in prayer. During this ritual, devotees pray to God and ask for harmony, world peace, and an unhindered path to completing a particular endeavor.",
+            "externalLink": "https://www.instagram.com/baps/?hl=en",
+            "eventDate": "2023-10-09T02:13:03.074Z",
+            "timings": [
+              {
+                "id": null,
+                "name": "Mahapuja Timings",
+                "description": "Devotees will be able to take part in a traditional mahapuja worship ritual at the following times",
+                "type": "OPEN",
+                "specifiedDateTimestampInSeconds": null,
+                "hours": [
+                  {
+                    "weekday": "SUNDAY",
+                    "startHour": 8,
+                    "endHour": 9
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": null,
+            "type": "IMAGE",
+            "images": [
+              "https://www.neasdentemple.org/heroImages/visitUsHeroMobile.jpg",
+              "https://live.staticflickr.com/3776/10742246813_f10f60f591_b.jpg",
+              "https://londonmandir.baps.org/images/2022/11/Diwali-Annakut-2021-71.jpg",
+              "https://londonmandir.baps.org/images/2011/10/Timings_main.jpg"
+            ],
+            "thumbnail": "https://londonmandir.baps.org/images/2011/01/guidedtour_main2.jpg",
+            "title": "Akshardham Tours",
+            "description": "Tours of the akshardham campus will take place at the times listed below",
+            "externalLink": "https://www.instagram.com/baps/?hl=en",
+            "eventDate": "2023-10-10T02:13:03.074Z",
+            "timings": [
+              {
+                "id": null,
+                "name": "Akshardham Tours",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "type": "OPEN",
+                "specifiedDateTimestampInSeconds": null,
+                "hours": [
+                  {
+                    "weekday": "SUNDAY",
+                    "startHour": 8.5,
+                    "endHour": 13.5
+                  },
+                  {
+                    "weekday": "MONDAY",
+                    "startHour": 8.5,
+                    "endHour": 18.5
+                  },
+                  {
+                    "weekday": "TUESDAY",
+                    "startHour": 8.5,
+                    "endHour": 18.5
+                  },
+                  {
+                    "weekday": "WEDNESDAY",
+                    "startHour": 8.5,
+                    "endHour": 18.5
+                  },
+                  {
+                    "weekday": "THURSDAY",
+                    "startHour": 8.5,
+                    "endHour": 18.5
+                  },
+                  {
+                    "weekday": "FRIDAY",
+                    "startHour": 8.5,
+                    "endHour": 18.5
+                  },
+                  {
+                    "weekday": "SATURDAY",
+                    "startHour": 8.5,
+                    "endHour": 13.5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": null,
+            "type": "IMAGE",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/25823/webimages/29_10_2022_Annakut_Celebration_03438.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/10299/webimages/07_BHVN8687.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26667/WebImages/006_2023_03_01_0008.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/25776/WebImages/2_Robbinsville_Exhibition2022_02.jpg"
+            ],
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/LocationImages/upcomingevents/WebImages/Rath_Yatra_2020_002.jpg",
+            "title": "Event 4",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "externalLink": null,
+            "eventDate": "2023-10-11T02:13:03.074Z",
+            "timings": [
+              {
+                "id": null,
+                "name": "Event 4",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "type": "OPEN",
+                "specifiedDateTimestampInSeconds": null,
+                "hours": [
+                  {
+                    "weekday": "SUNDAY",
+                    "startHour": 8.5,
+                    "endHour": 8.75
+                  },
+                  {
+                    "weekday": "SUNDAY",
+                    "startHour": 12.5,
+                    "endHour": 12.75
+                  },
+                  {
+                    "weekday": "SUNDAY",
+                    "startHour": 17.5,
+                    "endHour": 17.75
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "galleries": [
+          {
+            "description": "",
+            "id": 0,
+            "media": [
+              {
+                "caption": "This murti (sacred image) of Tapomurti Shri Nilkanth Varni is a homage to his travels around the Indian subcontinent for 7 years during his teenage years. Nilkanth Varni is portrayed in an ascetic pose performing tapas, or penance and worship with intense self-discipline",
+                "id": null,
+                "name": "Tapomurti Shri Nilkanth Varni",
+                "src": "https://media.baps.dev/wp-content/uploads/2021/10/15140152/05-Tapomurti-Nilkanth-Varni-Moods-scaled.jpg",
+                "thumbnail": "https://media.baps.dev/wp-content/uploads/2021/10/15140152/05-Tapomurti-Nilkanth-Varni-Moods-scaled.jpg",
+                "type": "IMAGE"
+              },
+              {
+                "caption": "Step into the enchanting BAPS Akshardham in New Jersey, USA, where ancient traditions meet modern devotion. Embark on a captivating journey as you explore the mandir adorned with intricate carvings and awe-inspiring architecture",
+                "id": null,
+                "name": "Explore",
+                "src": "https://lh3.googleusercontent.com/p/AF1QipMnYq3IYTQRfS9_wf49GSxmTu5M6uj5cGq-Qj1c=s1360-w1360-h1020",
+                "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMnYq3IYTQRfS9_wf49GSxmTu5M6uj5cGq-Qj1c=s1360-w1360-h1020",
+                "type": "IMAGE"
+              }
+            ],
+            "title": "Homepage"
+          },
+          {
+            "description": "",
+            "id": 1,
+            "media": [
+              {
+                "caption": "Step into the enchanting BAPS Akshardham in New Jersey, USA, where ancient traditions meet modern devotion. Embark on a captivating journey as you explore the mandir adorned with intricate carvings and awe-inspiring architecture",
+                "id": null,
+                "name": "Explore",
+                "src": "https://lh3.googleusercontent.com/p/AF1QipMnYq3IYTQRfS9_wf49GSxmTu5M6uj5cGq-Qj1c=s1360-w1360-h1020",
+                "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMnYq3IYTQRfS9_wf49GSxmTu5M6uj5cGq-Qj1c=s1360-w1360-h1020",
+                "type": "IMAGE"
+              }
+            ],
+            "title": "Explore"
+          },
+          {
+            "description": "",
+            "id": 2,
+            "media": [
+              {
+                "caption": "Witness the fusion of tradition and technology, as ancient scriptures come alive with state-of-the-art multimedia presentations. Let the captivating light and sound show transport you to a realm of divine beauty",
+                "id": null,
+                "name": "Discover",
+                "src": "https://visitnj.org/sites/default/files/BAPS%20Mandir%20NJ%20welcome%20center.jpg",
+                "thumbnail": "https://visitnj.org/sites/default/files/BAPS%20Mandir%20NJ%20welcome%20center.jpg",
+                "type": "IMAGE"
+              }
+            ],
+            "title": "Discover"
+          }
+        ],
+        "lookups": {
+          "aboutUs": "https://www.baps.org/About-BAPS.aspx",
+          "donate": "https://donate.na.baps.org/akshardham",
+          "visitorGuidelines": "https://www.baps.org/Global-Network/North-America/Robbinsville/Visitor-Info.aspx",
+          "glossary": "https://www.baps.org/glossary.aspx",
+          "privacyPolicy": "https://www.baps.org/Privacy-Policy.aspx",
+          "termsConditions": "https://www.baps.org/Terms-and-Conditions.aspx",
+          "socialYoutubeLink": "https://youtube.com/@BAPS?si=4nRdqhKKs2qi6aKE",
+          "socialInstagramLink": "https://instagram.com/baps",
+          "socialFacebookLink": "https://facebook.com/bapsswaminarayansanstha",
+          "socialTwitterLink": "https://twitter.com/baps",
+          "lyftDeeplink": "https://www.lyft.com/signup/SDKSIGNUP?clientId=vtsay9k4lIt6",
+          "shayonaCafe": "https://usa.akshardham.org/explore#shayona",
+          "giftShop": "https://www.baps.org/Global-Network/North-America/Robbinsville.aspx",
+          "yourTickets": "https://donate.na.baps.org/robbinsville",
+          "bookedTours": "https://donate.na.baps.org/robbinsville",
+          "uberDeeplink": "https://m.uber.com/ul/?action=setPickup&client_id=KyjL4oVCyK7_ts_kjCthiaC9kV1GwCXF&pickup=my_location&dropoff[formatted_address]=112%20North%20Main%20Street%2C%20Windsor%2C%20NJ%2C%20USA&dropoff[latitude]=40.252976&dropoff[longitude]=-74.578364"
+        },
+        "socialMedia": [
+          {
+            "description": "BAPS Swaminarayan Sanstha\nA worldwide Hindu organization",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1693216354867_socialMedia-2.jpeg",
+            "profileImage": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1693216356752_2021-06-08(1).jpg",
+            "link": "https://www.instagram.com/baps/?hl=en",
+            "handle": "Instagram of account baps",
+            "type": "INSTAGRAM",
+            "date": "2001-08-20T08:00:00.000Z"
+          },
+          {
+            "description": "Important social media",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1693216523131_2021-06-08.jpg",
+            "profileImage": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1693216524678_socialMedia-2.jpeg",
+            "link": "https://www.baps.org/Terms-and-Conditions.aspx",
+            "handle": "social media news",
+            "type": "FACEBOOK",
+            "date": "2015-08-20T08:00:00.000Z"
+          },
+          {
+            "description": "अक्षरधाम मंदिर का एक आकर्षण गार्डन ऑफ़ इंडिया है, मुख्य रूप से यह मंदिर के क्षेत्र में ही बना हरा लॉन है। इस गार्डन में बहुत सी मूर्तियाँ बनी हुई है जो देश के कुछ महापुरुषों को श्रधांजलि देते हुए नजर आते है, यह कांसे से बनाया गया हैं।",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1695019819882_OIP(1).jfif",
+            "profileImage": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1695019820937_twiteer.jfif",
+            "link": "https://www.baps.org/Terms-and-Conditions.aspx",
+            "handle": "Twitter Post",
+            "type": "TWITTER",
+            "date": "2023-09-18T04:00:00.000Z"
+          },
+          {
+            "description": "WebBAPS Swaminarayan Sanstha is a spiritual, volunteer",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1695806737252_announcement.jpg",
+            "profileImage": "https://baps-visitor-app.s3.amazonaws.com/socialMedia/1695806748559_image1.jpg",
+            "link": "https://www.baps.org/Terms-and-Conditions.aspx",
+            "handle": "WebBAPS Swaminarayan",
+            "type": "YOUTUBE",
+            "date": "2028-08-20T13:53:00.000Z"
+          }
+        ],
+        "feedbackForm": {
+          "submitLink": "http://bapsvisitoradmin-stage.kcspl.in:9008/api",
+          "fields": [
+            {
+              "options": [],
+              "required": true,
+              "fieldName": "Name",
+              "fieldType": "textBox"
+            },
+            {
+              "options": [],
+              "required": true,
+              "fieldName": "Feedback",
+              "fieldType": "textArea"
+            },
+            {
+              "options": [],
+              "required": true,
+              "fieldName": "Email",
+              "fieldType": "textBox"
+            },
+            {
+              "options": [
+                {
+                  "key": "Yes",
+                  "value": "Yes"
+                },
+                {
+                  "key": "No",
+                  "value": "No"
+                }
+              ],
+              "required": false,
+              "fieldName": "Subscribe to BAPS communications",
+              "fieldType": "radio"
+            }
+          ]
+        },
+        "attractions": [
+          {
+            "id": 1,
+            "type": "Outdoor Attraction",
+            "title": "Nilkanth Plaza",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23484/WebImages/01_Tapomurti_Nilkanth_Varni_Murti_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23484/WebImages/19_Tapomurti_Nilkanth_Varni_Murti_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23484/WebImages/51_Tapomurti_Nilkanth_Varni_Murti_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23484/WebImages/93_Tapomurti_Nilkanth_Varni_Murti_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": true,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "latitude": "40.2544362",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23484/WebImages/16_Tapomurti_Nilkanth_Varni_Murti_Sthapan.jpg",
+            "longitude": "-74.5765478",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23484/WebImages/16_Tapomurti_Nilkanth_Varni_Murti_Sthapan.jpg",
+            "description": "At the campus entrance stands a 49-foot sacred image of Bhagwan Swaminarayan. He is portrayed here as a youthful yogi. Known as Nilkanth Varni during his adolescent years, he ventured on a 7-year, 8,000-mile journey through the sacred land of India, imparting lessons of faith, integrity, positivity, forgiveness, and determination. His calm and undisturbed pose, which depicts him engaged in deep yogic prayer, expresses the strength of spiritual focus, self-reflection, and discipline. His draped eyelids and calmly sealed lips symbolize tranquility and compassion. This majestic image echoes the core sentiments of Nilkanth’s journey. At the foot of the plaza rests a uniquely crafted map that charts Nilkanth’s travels, revealing the extent to which the yogi persevered to foster compassion, empathy, and service in the hearts of all. The Nilkanth Plaza pays homage to the inspiring journey of Nilkanth and serves as a space for profound reflection.",
+            "displayOrder": {
+              "exploreList": 0,
+              "visitPlanner": 0
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 25
+          },
+          {
+            "id": 2,
+            "type": "Outdoor Attraction",
+            "title": "Traditional Stepwell",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255062",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577206",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "Like many of the world’s faith traditions, Hinduism sees water as a symbol of life, rejuvenation, tranquility, and purity. For this reason, Hindu mandirs are often created alongside serene bodies of water. The Brahma Kund, which foregrounds Swaminarayan Akshardham, is a traditional Indian stepped pond that brims with water from nearly 300 sources of water from around the world, including India’s 108 holy rivers and those flowing through the fifty states of the US. It pays tribute to our planet’s precious resources and inspires visitors to pause and experience the beauty of nature and its creator.",
+            "displayOrder": {
+              "exploreList": 1,
+              "visitPlanner": 1
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 3,
+            "type": "Outdoor Attraction",
+            "title": "Entry Plaza",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255276",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577135",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "Entry Plaza or main gate leading to welcome center is adorned with carved peacocks and elephants. This ornate stone entrance symbolizes purity and devotion. They reflect the sentiments of accepting all that is auspicious and good from every direction.",
+            "displayOrder": {
+              "exploreList": 2,
+              "visitPlanner": 2
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 0
+          },
+          {
+            "id": 4,
+            "type": "Outdoor Attraction",
+            "title": "Welcome Center",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254685",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577792",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "In Hindu traditions, the art of welcoming guests transcends hospitality; it is considered a sacred practice. Our ancient texts proclaim, “atithi devo bhava”—a host is to see the Divine in every guest. The Akshardham Welcome Center is thoughtfully designed, keeping this profound sentiment in mind. Incorporating India’s centuries-old haveli architectural style, it features embracing corridors that reflect warmth and inclusivity. Here, visitors of all backgrounds are graciously received and introduced to the heart of Hinduism and Swaminarayan Akshardham. The Welcome Center’s soothing aesthetic not only invites you to experience India’s rich cultural heritage but also reflects deep respect for the spiritual and cultural values that bind us all together.",
+            "displayOrder": {
+              "exploreList": 3,
+              "visitPlanner": 3
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 25
+          },
+          {
+            "id": 5,
+            "type": "Outdoor Attraction",
+            "title": "Charnavind",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254190",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577732",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "A large marble replica of the holy footprints, or 'charanarvind', of Bhagwan Swaminarayan (1781-1830 CE) commemorate his incarnation on Earth. The sixteen holy symbols which mark God’s feet as per the Hindu shastras are seen in these holy footprints. In humble reverence to Bhagwan Swaminarayan, four conch shells shower water at his lotus feet.",
+            "displayOrder": {
+              "exploreList": 4,
+              "visitPlanner": 4
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 0
+          },
+          {
+            "id": 6,
+            "type": "Outdoor Attraction",
+            "title": "Maha Mandir Interior",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254038",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.579893",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "The Parabrahma Mandapam stands as a sacred space that emanates the grandeur of the Divine, who is also referred to as Parabrahma. Every aspect of this Mandapam is meticulously crafted, including its exceptional oval dome, which is a feat of architecture. The masterful carvings displayed here convey the magnificence of God and his earthly manifestation. These carvings weave a captivating narrative, illustrating how God’s physical embodiment on earth is experienced and realized by individuals. This Mandapam invites visitors to embark on a journey to discover and connect with the manifest form of God.",
+            "displayOrder": {
+              "exploreList": 5,
+              "visitPlanner": 5
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 60
+          },
+          {
+            "id": 7,
+            "type": "Outdoor Attraction",
+            "title": "Maha Mandir Exterior",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253795",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.579330",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "The majestic exterior façade of the Mahamandir, known as the Mandovar, pays vibrant homage to the rich heritage of Hindu art and culture. Gracefully adorning this façade are depictions of dance poses drawn from Bharatnatyam, an ancient and revered form of Indian classical dance. These intricate portrayals are accompanied by sacred images of celestial beings immersed in the enchanting melodies of Indian classical and folk instruments. Together, they vividly illustrate how the depths of devotion find their voice in a symphony of artistic expression. Furthermore, the Mandovar features eminent sages and seers of India, whose wisdom has left an indelible mark on the teachings, legacy, and traditions of Hinduism and the world.",
+            "displayOrder": {
+              "exploreList": 6,
+              "visitPlanner": 6
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 0
+          },
+          {
+            "id": 8,
+            "type": "Outdoor Attraction",
+            "title": "Parikrama",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "latitude": "40.254146",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.580414",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "Akshardham’s colonnade, known as the Parikrama, gracefully stretches for more than half a mile around the Mahamandir. Much like a garland adorns a sacred image, the colonnade acts as a metaphorical ornament, symbolizing a loving embrace around the Mahamandir. Beyond its visual splendor, the colonnade imparts a profound lesson: the core of our pursuits and existence should revolve around the Divine. Visitors who circumambulate this sacred pathway pay homage to the holy presence within the Mahamandir and, in doing so, receive profound blessings. The sprawling colonnade reminds us of the beauty and serenity of centering our lives on the Divine.",
+            "displayOrder": {
+              "exploreList": 7,
+              "visitPlanner": 7
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 20
+          },
+          {
+            "id": 9,
+            "type": "Outdoor Attraction",
+            "title": "Courtyard",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497259312_MicrosoftTeams-image(3).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253999",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578485",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "Enjoy breathtaking views of Mahamandir and Parikrama with the background of colorful sky from Courtyard. The Mandir's reflections in two water bodies reminds us of our own identity and truth within.",
+            "displayOrder": {
+              "exploreList": 8,
+              "visitPlanner": 8
+            },
+            "attractionType": "Experience",
+            "averageVisitLengthInMinutes": 0
+          },
+          {
+            "id": 10,
+            "type": "Outdoor Attraction",
+            "title": "Gift Shop",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497288609_MicrosoftTeams-image(2).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254921",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578230",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "The Aksharpith Gift Shop, nestled within the precincts of Akshardham, is more than just a shop—it’s an experience. With an expansive variety of offerings, from rich literature to ritual essentials, visitors are provided with tools to deepen their personal devotion. For the younger enthusiasts, the shop offers educational and interactive learning tools that not only entertain but also impart knowledge. Health enthusiasts can explore an array of herbal health products. Every item on its shelf allows visitors to take a piece of Akshardham back home, making their visit both enriching and memorable. As visitors immerse themselves in the spiritual ambiance of Akshardham, the Aksharpith Gift Shop ensures they carry home a tangible memory of their journey.",
+            "displayOrder": {
+              "exploreList": 9,
+              "visitPlanner": 9
+            },
+            "attractionType": "Food & Gifts",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 11,
+            "type": "Outdoor Attraction",
+            "title": "Shayona Cafe",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497288609_MicrosoftTeams-image(2).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255183",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578282",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "Step into the Shayona Café and indulge in a unique culinary journey where Indian flavors seamlessly blend with Western cuisine. At this distinguished establishment, the spotlight shines on Swaminarayan vegetarian cuisine, reflecting deep-rooted principles of non-violence and purity. Here, the essence of devotion permeates the dining experience, with offerings transformed into prasad—a sanctified form of nourishment. At Shayona Café, dining transcends the mere enjoyment of a meal; it’s an immersion in a sacred tradition where receiving prasad signifies reverence and gratitude.",
+            "displayOrder": {
+              "exploreList": 10,
+              "visitPlanner": 10
+            },
+            "attractionType": "Food & Gifts",
+            "averageVisitLengthInMinutes": 30
+          },
+          {
+            "id": 12,
+            "type": "Outdoor Attraction",
+            "title": "Shayona Snacks and Sweet Shop",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497288609_MicrosoftTeams-image(2).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255012",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578071",
+            "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": 11,
+              "visitPlanner": 11
+            },
+            "attractionType": "Food & Gifts",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 13,
+            "type": "Facilities",
+            "title": "Guest Services",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253409",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.579518",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 14,
+            "type": "Facilities",
+            "title": "Guest Experience",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253885",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.579280",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 15,
+            "type": "Facilities",
+            "title": "Lost and Found",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254491",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577912",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 16,
+            "type": "Facilities",
+            "title": "Mandir Information Center",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.2537",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.5774",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 17,
+            "type": "Facilities",
+            "title": "Healthcare Services",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254224",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578239",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 18,
+            "type": "Facilities",
+            "title": "First Aid",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253859",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578083",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 19,
+            "type": "Facilities",
+            "title": "Emergency Services",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254366",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578006",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 20,
+            "type": "Facilities",
+            "title": "Restrooms",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254415",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.579632",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 21,
+            "type": "Facilities",
+            "title": "Companion Restrooms",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254460",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577888",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 22,
+            "type": "Facilities",
+            "title": "Water Fountain",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.2535",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.5778",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 23,
+            "type": "Facilities",
+            "title": "Nursing Room",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254800",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578185",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 24,
+            "type": "Facilities",
+            "title": "Baby Care Center",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.254724",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577888",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 25,
+            "type": "Facilities",
+            "title": "Handicap Accessible Route",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253394",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.578765",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/facility.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Facilities",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 26,
+            "type": "Parking",
+            "title": "Parking A",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253045",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.575997",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/parking.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Parking",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 27,
+            "type": "Parking",
+            "title": "Parking B",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.253791",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.575890",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/parking.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Parking",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 28,
+            "type": "Parking",
+            "title": "Parking C",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255281",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.576759",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/parking.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Parking",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 29,
+            "type": "Parking",
+            "title": "Parking D",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255805",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.577553",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/parking.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Parking",
+            "averageVisitLengthInMinutes": 10
+          },
+          {
+            "id": 30,
+            "type": "Parking",
+            "title": "Parking E",
+            "images": [
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/10__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan_001.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/11__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/16__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg",
+              "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/15__Brahma_Kund_Dedication___Tapomurti_Nilkanth_Varni_Sthapan.jpg"
+            ],
+            "videos": null,
+            "content": null,
+            "mapIcon": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1696497335936_MicrosoftTeams-image(4).png",
+            "options": {
+              "reservable": false,
+              "externalLink": "url",
+              "isRecommended": true
+            },
+            "timings": [
+              {
+                "id": null,
+                "name": "Hours",
+                "type": "OPEN",
+                "hours": [
+                  {
+                    "endHour": 19.5,
+                    "startHour": 9,
+                    "weekday": "Wed-Mon"
+                  }
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "specifiedDateTimestampInSeconds": null
+              }
+            ],
+            "latitude": "40.255502",
+            "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/23480/WebImages/Dedication_of_Brahma_Kund___Tapomurti_Shri_Nilkanth_Varni_Sthapan_01.PNG",
+            "longitude": "-74.573626",
+            "thumbnail": "https://baps-visitor-app.s3.amazonaws.com/MapIconsNonAttractions/parking.png",
+            "description": "BAPS vegetarian foods strictly adhere to religious guidelines of Swaminarayan sect and the fare offers an exploration of how flavorful meals can come together within these guidelines. Selection and availability of snack and sweet boxes varies by season. Pick up a few boxes of our house-made snacks and desserts from Shayona Sweet and Snack Store for everyday use or when celebrating festivities.",
+            "displayOrder": {
+              "exploreList": null,
+              "visitPlanner": null
+            },
+            "attractionType": "Parking",
+            "averageVisitLengthInMinutes": 10
+          }
+        ],
+        "guidelines": {
+          "image": "https://baps-visitor-app.s3.amazonaws.com/pages/1691171094098_Frame313565@2x.png",
+          "description": "The Mandir is a sacred house of God and a place of daily worship. In the interest of preserving its sanctity and ensuring worshippers can enjoy the spiritual ambiance, all visitors are requested to abide by the following guidelines in all areas of the complex.",
+          "link": "https://www.baps.org/Global-Network/North-America/Robbinsville.aspx",
+          "sections": [
+            {
+              "title": "Dress Code",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/GuidelinesIcons/guidelines_dress.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "Please note that a strict dress code operates within the complex. Specifically, tops must cover the shoulders, back, chest, navel, and upper arms. Leg-wear must be at least below knee-length. Visitors not having appropriate dress code would be requested to wear wraps provided at the Mandir.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Shoes",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1691656151638_Akshardham.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "Please remove all footwear before entering any of the Mandir buildings. Shoe racks are provided within the complex.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Photography & Videography",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/GuidelinesIcons/guidelines_no_camera.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "Photography & Videography is strictly prohibited inside all buildings. Videos and photos – for personal use only – may be taken from ground level outside the Mandir and Haveli only. Commercial use or publication of images of the site is strictly prohibited. Tripods are not permitted on the campus. Please see reception desk for further information.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Mobile Phones",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/GuidelinesIcons/guidelines_no_videography.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "Please switch all mobile phones to silent prior to entering the premises. Mobile phones with cameras must not be used to take photo or video inside the Mandir.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Smoking",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/GuidelinesIcons/guidelines_no_smoking.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "No smoking is allowed on the premises, including the parking area. Please dispose cigarettes prior to entering the gates.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Conduct",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1691656151638_Akshardham.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "Please refrain from touching the delicate carvings. To maintain the spiritual atmosphere observe silence inside the Mandir.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Children",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1691656151638_Akshardham.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "Children of all ages are welcome. However, visitors aged 16 or under must be accompanied by a responsible adult at all times. Nursing Pod which can be locked for privacy is located near the rest room. Breastfeeding mothers are requested to use the nursing pod.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Pets",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/GuidelinesIcons/guidelines_no_pet.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "No pets allowed within complex. (Service dogs allowed in most areas except sacred spaces used for prayer and meditation.)",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            },
+            {
+              "title": "Copyright",
+              "imageURL": "https://baps-visitor-app.s3.amazonaws.com/mapIcon/1691656151638_Akshardham.png",
+              "content": [
+                {
+                  "order": 0,
+                  "text": "The Mandir may carry out photography and/or video recording and/or other monitoring which may feature visitors. The copyright and all other intellectual property rights in these materials rests with BAPS Swaminarayan Sanstha or such authorized third party Please Note: Because of the many special services throughout the year, timings and access for the Mandir are subject to change, sometimes unavoidably without notice. While all reasonable measures will be taken to avoid any inconvenience, the Management apologizes if any is inadvertently incurred. The Management also reserves the right to refuse admission to those who do not follow the guidelines and to those who may be inappropriately dressed. The Management is not responsible or liable for any loss or damage of any personal belongings of the visitors, during their visit to Mandir.",
+                  "videoUrl": null,
+                  "imageURL": null
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "message": "Updated Data Loaded Successfully"
+    }
+  }

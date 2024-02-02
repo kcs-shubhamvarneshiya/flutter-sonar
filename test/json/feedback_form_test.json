@@ -1,0 +1,103 @@
+{
+  "feedbackForm": {
+    "submitLink": "http://www.rysun.com",
+    "fields": [
+      {
+        "options": [],
+        "required": true,
+        "fieldName": "Name",
+        "fieldType": "textBox"
+      },
+      {
+        "options": [
+          {
+            "key": "male",
+            "value": "Male"
+          },
+          {
+            "key": "female",
+            "value": "Female"
+          }
+        ],
+        "required": true,
+        "fieldName": "Gender",
+        "fieldType": "radio"
+      },
+      {
+        "options": [
+          {
+            "key": "campus",
+            "value": "Campus"
+          },
+          {
+            "key": "temple",
+            "value": "Temple"
+          },
+          {
+            "key": "cafe",
+            "value": "Cafe"
+          },
+          {
+            "key": "fountain_show",
+            "value": "Fountain Show"
+          },
+          {
+            "key": "musuem",
+            "value": "Musuem"
+          }
+        ],
+        "required": false,
+        "fieldName": "What you like most in the visit?",
+        "fieldType": "multiSelectDropdown"
+      },
+      {
+        "options": [
+          {
+            "key": "following",
+            "value": "I am following"
+          },
+          {
+            "key": "friends",
+            "value": "From Friends"
+          },
+          {
+            "key": "relatives",
+            "value": "From Relatives"
+          }
+        ],
+        "required": false,
+        "fieldName": "Where you know from BAPS?",
+        "fieldType": "dropdown"
+      },
+      {
+        "options": [
+          {
+            "key": "musuem",
+            "value": "Musuem"
+          },
+          {
+            "key": "temple",
+            "value": "Temple"
+          },
+          {
+            "key": "fountain_show",
+            "value": "Fountain Show"
+          },
+          {
+            "key": "gift_shop",
+            "value": "Gift Shop"
+          }
+        ],
+        "required": false,
+        "fieldName": "Attractions you have visited in your trip",
+        "fieldType": "checkBox"
+      },
+      {
+        "options": [],
+        "required": true,
+        "fieldName": "feedback",
+        "fieldType": "textArea"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+projectKey=AKDM-Visitor-App-Flutter
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=AKDM-Visitor-App-Flutter
+ceTaskId=AYgO6qigadiPoU1QY-zV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgO6qigadiPoU1QY-zV

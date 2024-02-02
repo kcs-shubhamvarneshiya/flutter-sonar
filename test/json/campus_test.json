@@ -1,0 +1,31 @@
+{
+  "campus": {
+    "name": "Akshardham",
+    "description": "This data is coming from the file stored in asset folder in the project.",
+    "latitude": "40.2537234",
+    "longitude": "-74.5797675",
+    "address": {
+      "street": "112 N Main St",
+      "city": "Windsor",
+      "state": "NJ",
+      "postal": "08561"
+    },
+    "contactInfo": [
+      {
+        "type": "tel",
+        "title": "Reception",
+        "value": "+1-609-918-1212"
+      },
+      {
+        "type": "email",
+        "title": "Media Inquiries",
+        "value": "mediarelations@na.baps.org"
+      },
+      {
+        "type": "tel",
+        "title": "Media Inquiries",
+        "value": "+1-609-447-1008"
+      }
+    ]
+  }
+}

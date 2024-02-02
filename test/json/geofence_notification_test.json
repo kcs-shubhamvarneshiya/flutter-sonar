@@ -1,0 +1,16 @@
+{
+  "GeofenceList": [
+    {
+      "notificationId": "1234567890",
+      "id": "9876543210",
+      "notificationTitle": "Geofence Notification",
+      "notificationDesc": "You are entering a geofence.",
+      "radius": "100",
+      "latitude": "37.7833",
+      "longitude": "-122.4167",
+      "deepLink": "https://example.com/deeplink",
+      "isEntry": true,
+      "isExit": false
+    }
+  ]
+}

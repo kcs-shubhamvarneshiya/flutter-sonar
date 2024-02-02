@@ -1,0 +1,15 @@
+{
+    "announcements": [
+        {
+            "id": 1,
+            "priority": "INFO",
+            "title": "Update to Mandir Timings",
+            "message": "Mandir timings have been updated to reflect the summer visiting hours",
+            "details": "",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/77/Akshardham_Gandhinagar_Gujarat.jpg",
+            "startTime": "2023-04-30T01:13:03.074Z",
+            "endTime": "2023-04-30T02:13:03.074Z"
+        }
+
+    ]
+}

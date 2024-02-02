@@ -1,0 +1,18 @@
+{
+  "galleries": [
+    {
+      "id": 0,
+      "title": "Homepage",
+      "description": "",
+      "media": [
+        {
+          "type": "IMAGE",
+          "name": "Tapomurti Shri Nilkanth Varni",
+          "captions": "This murti (sacred image) of Tapomurti Shri Nilkanth Varni is a homage to his travels around the Indian subcontinent for 7 years during his teenage years. Nilkanth Varni is portrayed in an ascetic pose performing tapas, or penance and worship with intense self-discipline",
+          "src": "https://media.baps.dev/wp-content/uploads/2021/10/15140152/05-Tapomurti-Nilkanth-Varni-Moods-scaled.jpg",
+          "thumbnail": "https://media.baps.dev/wp-content/uploads/2021/10/15140152/05-Tapomurti-Nilkanth-Varni-Moods-scaled.jpg"
+        }
+      ]
+    }
+  ]
+}

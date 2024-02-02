@@ -1,0 +1,7 @@
+{
+  "ApiConfig": {
+    "baseUrl": "https://api.example.com",
+    "headerSecretKey": "X-API-Secret-Key",
+    "headerSecretValue": "1234567890abcdef"
+  }
+}

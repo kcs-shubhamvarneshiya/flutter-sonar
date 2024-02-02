@@ -1,0 +1,79 @@
+name: $(Date:yyyyMMdd)$(Rev:r)
+trigger:
+  branches:
+    include:
+      - Dev
+
+stages:
+  - stage: Quality
+    displayName: Quality Stage
+    jobs:
+      - job: Quality
+        displayName: Quality
+        pool:
+          vmImage: "macOS-latest"
+        steps:
+
+        - task: FlutterInstall@0
+          inputs:
+            channel: 'beta'
+            mode: 'auto'
+            version: 'custom'
+            customVersion: '3.16.0'
+
+        - task: SonarQubePrepare@5
+          displayName: Setup sonar
+          inputs:
+            SonarQube: sonarQube
+            scannerMode: 'CLI'
+            configMode: 'manual'
+            cliProjectKey: 'eCube_eCubeFlutterApp2.0'
+            cliProjectName: 'eCubeFlutterApp2.0'
+            cliSources: '.'
+            extraProperties: |
+              sonar.sources=lib
+              sonar.tests=test
+              sonar.sourceEncoding=UTF-8
+        - task: PowerShell@2
+          displayName: Setup environment
+          inputs:
+            targetType: 'inline'
+            script: |
+              Write-Host "##vso[task.prependpath]$(JAVA_HOME_11_X64)"
+              Write-Host "##vso[task.setvariable variable=JAVA_HOME;]$(JAVA_HOME_11_X64)"
+              Write-Host "##vso[task.prependpath]$(FlutterToolPath)"
+              Write-Host "##vso[task.prependpath]$(FlutterToolPath)/cache/dart-sdk/bin"
+  
+        - task: CmdLine@2
+          displayName: Run install
+          inputs:
+            script: 'flutter pub get'
+
+        # - task: CmdLine@2
+        #   displayName: Run test
+        #   inputs:
+        #     script: 'flutter test --machine > tests.output'
+
+        # - task: CmdLine@2
+        #   displayName: Run test & coverage
+        #   inputs:
+        #     script: 'flutter test --coverage'
+
+        - task: SonarQubeAnalyze@5
+          displayName: Run analyze
+
+        - task: SonarQubePublish@5
+          displayName: Run publish
+          inputs:
+            pollingTimeoutSec: '300'
+
+  - stage: Build
+    displayName: Build
+    jobs:
+      - job: Build
+        displayName: Build job
+        pool:
+          vmImage: "macOS-latest"
+        steps:
+          - script: echo This is just a starter template, you need to update it later!
+            displayName: 'Run a one-line script'

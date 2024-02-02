@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "title": "Shri Swaminarayan Jayanti & Ram Navmi Celebrations 2023",
+      "publishedAt": "April 1, 2023",
+      "author": "BAPS Robbinsville",
+      "thumbnail": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+      "heroImage": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/webimages/SwaminarayanJayanti2023___12_.jpeg",
+      "gallery": [
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___1_.jpeg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___2_.jpeg",
+        "https://www.baps.org/Data/Sites/1/Media/GalleryImages/26904/WebImages/SwaminarayanJayanti2023___3_.jpeg"
+      ],
+      "file": "url",
+      "description": "The auspicious occasions of Shri Swaminarayan Jayanti and Shri Ram Jayanti were celebrated across North America.",
+      "extraText": "",
+      "tags": [
+        "Festivals",
+        "RamNavmi"
+      ],
+      "categories": [
+        "CulturalPrograms",
+        "Sanyukt"
+      ],
+      "externalLink": "https://google.com"
+    }
+  ]
+}

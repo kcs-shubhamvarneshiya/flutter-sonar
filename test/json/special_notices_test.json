@@ -1,0 +1,28 @@
+{
+  "specialNotices": [
+    {
+      "audio": {
+        "audio_url": "https://example.com/audio.mp3",
+        "audio_title": "My Audio"
+      },
+      "image": "https://example.com/image.png",
+      "title": "Special Notice Title",
+      "video": {
+        "item_url": "https://example.com/video.mp4",
+        "item_thumbnail": "https://example.com/video.png"
+      },
+      "details": [
+        {
+          "detail_text": "Detail 1",
+          "detail_type": "text"
+        },
+        {
+          "detail_text": "Detail 2",
+          "detail_type": "image"
+        }
+      ],
+      "description": "This is a special notice.",
+      "id": 1234567890
+    }
+  ]
+}
