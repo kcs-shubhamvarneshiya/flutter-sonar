@@ -1,0 +1,41 @@
+name: SonarQube Analysis
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  sonarqube:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '11'
+
+      - name: Cache SonarQube Scanner
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.sonar/cache
+          key: sonarqube-${{ runner.os }}-jdk-${{ hashFiles('**/*.gradle*', '**/*.kts*') }}
+
+      - name: Build and analyze
+        run: |
+          ./gradlew assemble
+          ./gradlew sonarqube \
+            -Dsonar.host.url=http://sonarqube.kcspl.in:9000/ \
+            -Dsonar.login=4bfeceb86030431b89e0f94ac01e996405e8f016 \
+            -Dsonar.projectKey=QulityGateTest
+
+      - name: Check SonarQube Quality Gate
+        uses: ericgundrum/sonarqube-check-action@v1
+        with:
+          login: 89f09c21d9b7f2f8e67b98200b5772794b4c2872
+          url: http://sonarqube.kcspl.in:9000/
