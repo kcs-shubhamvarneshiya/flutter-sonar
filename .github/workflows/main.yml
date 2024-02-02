@@ -32,7 +32,9 @@ jobs:
           flutter-version: "2.8.1"
 
       - name: Install dependencies
-        run: flutter pub get
+        run: |
+          flutter upgrade 
+          flutter pub get
 
       - name: Build and analyze
         run: |
