@@ -1,7 +1,7 @@
 name: SonarQube Analysis
 
 on:
-  pull_request:
+  push:
     branches:
       - "*"
 
@@ -16,8 +16,8 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v2
         with:
-          distribution: 'adopt'
-          java-version: '11'
+          distribution: "adopt"
+          java-version: "11"
 
       - name: Cache SonarQube Scanner
         uses: actions/cache@v2
