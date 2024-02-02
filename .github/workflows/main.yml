@@ -3,7 +3,7 @@ name: SonarQube Analysis
 on:
   pull_request:
     branches:
-      - main
+      - "*"
 
 jobs:
   sonarqube:
