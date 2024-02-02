@@ -125,6 +125,7 @@ dev_dependencies:
   plugin_platform_interface: ^2.0.0
   retrofit_generator: ^7.0.8
   video_player: ^2.7.1
+  sonarqube: ^4.0.0
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
