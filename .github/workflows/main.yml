@@ -26,6 +26,11 @@ jobs:
             ~/.sonar/cache
           key: sonarqube-${{ runner.os }}-jdk-${{ hashFiles('**/*.gradle*', '**/*.kts*') }}
 
+      - name: Install Gradle
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gradle
+
       - name: Build and analyze
         run: |
           ./gradlew assemble
