@@ -33,7 +33,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          flutter upgrade 
+          flutter pub add sonar-scanner
           flutter pub get
 
       - name: Build and analyze
