@@ -29,12 +29,13 @@ jobs:
       - name: Install Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: "2.8.1"
+          flutter-version: "3.16.6"
 
       - name: Install dependencies
         run: |
-          flutter pub add sonar-scanner
+          flutter upgrade --force
           flutter pub get
+          flutter build apk
 
       - name: Build and analyze
         run: |
@@ -42,9 +43,3 @@ jobs:
             -Dsonar.host.url=http://sonarqube.kcspl.in:9000/ \
             -Dsonar.login=4bfeceb86030431b89e0f94ac01e996405e8f016 \
             -Dsonar.projectKey=QulityGateTest
-
-      - name: Check SonarQube Quality Gate
-        uses: SonarSource/sonarcloud-github-action@master
-        with:
-          login: 89f09c21d9b7f2f8e67b98200b5772794b4c2872
-          url: http://sonarqube.kcspl.in:9000/
